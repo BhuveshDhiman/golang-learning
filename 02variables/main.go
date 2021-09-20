@@ -34,7 +34,7 @@ func main() {
 	var website = "bhuveshdhiman.me"
 	fmt.Println(website)
 
-	// no var style
+	// no var style or walrus operator
 	numberOfUsers := 300000.5
 	fmt.Println(numberOfUsers)
 
